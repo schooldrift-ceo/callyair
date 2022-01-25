@@ -10,4 +10,4 @@
 Login Details
 Login Details for Agent: callyair1   password: R29hb7mc2c$
 
-# Note: The website http://flyair.ultihost.net/ isn't backend integrated
+# Note: The website http://flyair.ultihost.net/ isn't backend integrated due to error with hosting provider
